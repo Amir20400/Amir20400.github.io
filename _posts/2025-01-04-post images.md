@@ -5,6 +5,7 @@ date: 2025-01-04 00:21:00
 description: a post with image
 tags: formatting images
 categories: sample-posts
+thumbnail: assets/img/9.jpg
 ---
 
 Some delicious meals.
