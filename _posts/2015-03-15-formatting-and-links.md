@@ -6,7 +6,9 @@ description: a math equation
 tags: formatting math
 categories: sample-posts
 ---
+
 we want see somthing about complex number:
+
 $$
 e^(i*x)=cos(x)+i*sin(x);
 $$
