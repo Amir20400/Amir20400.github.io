@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a post with images
-date: 2025-01-04 00:21:00
+date: 2025-01-03 11:41:00
 description: a post with image
 tags: formatting images
 categories: sample-posts
