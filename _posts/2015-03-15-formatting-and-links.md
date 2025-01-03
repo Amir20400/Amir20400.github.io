@@ -10,6 +10,6 @@ categories: sample-posts
 we want see somthing about complex number:
 
 $$
-e^(ix)=cos(x)+isin(x)
+e^{ix} = \cos(x) + i\sin(x)
 $$
 
