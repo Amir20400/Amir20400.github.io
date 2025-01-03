@@ -145,17 +145,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/pseudocode/";
         
       },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code-diff/";
-        
-      },
     },{id: "post-a-post-with-advanced-image-components",
       
         title: "a post with advanced image components",
@@ -387,17 +376,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/disqus-comments/";
         
       },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
-        
-      },
     },{id: "post-a-post-with-code",
       
         title: "a post with code",
@@ -413,7 +391,7 @@ ninja.data = [{
       
         title: "a post with images",
       
-      description: "this is what included images could look like",
+      description: "a post with image",
       section: "Posts",
       handler: () => {
         
