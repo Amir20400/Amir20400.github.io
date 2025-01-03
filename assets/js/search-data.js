@@ -402,7 +402,7 @@ ninja.data = [{
       
         title: "a post with code",
       
-      description: "an example of a blog post with some code",
+      description: "an example of a post with some code",
       section: "Posts",
       handler: () => {
         
@@ -418,17 +418,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-math-equation",
-      
-        title: "a post with math equation",
-      
-      description: "a math equation",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-a-simple-inline-announcement",
