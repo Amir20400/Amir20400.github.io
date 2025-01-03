@@ -420,11 +420,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/images/";
         
       },
-    },{id: "post-a-post-with-formatting-and-links",
+    },{id: "post-a-post-with-math-equation",
       
-        title: "a post with formatting and links",
+        title: "a post with math equation",
       
-      description: "march &amp; april, looking forward to summer",
+      description: "a math equation",
       section: "Posts",
       handler: () => {
         
