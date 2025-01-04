@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home page
 permalink: /
 subtitle: Lets get more familiar
 
