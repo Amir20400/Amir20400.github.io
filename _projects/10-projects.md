@@ -1,7 +1,7 @@
 ---
 layout: page
 title: electricity project
-description: with background image
+description: Nikola Tesla
 img: assets/img/Marele geniu .jpg
 importance: 1
 category: work

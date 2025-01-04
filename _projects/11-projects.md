@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Healthy Life
-description: with background image
+description: Better Life
 img: assets/img/health.jpg
 importance: 1
 category: fun
