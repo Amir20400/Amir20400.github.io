@@ -4,13 +4,9 @@ title: electricity project
 description: with background image
 img: assets/img/Marele geniu .jpg
 importance: 1
-category: sience
+category: work
 related_publications: true
 ---
-
-
-Nikola Tesla (1856–1943) was a Serbian-American inventor, engineer, and futurist best known for his revolutionary contributions to electricity and magnetism. He developed technologies and ideas that laid the groundwork for modern power systems and many other innovations. Here are some highlights of his life and work:
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
