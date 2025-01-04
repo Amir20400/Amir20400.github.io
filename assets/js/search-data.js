@@ -147,14 +147,19 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-electricity-project",
           title: 'electricity project',
-          description: "with background image",
+          description: "Nikola Tesla",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10-projects/";
             },},{id: "projects-healthy-life",
           title: 'Healthy Life',
-          description: "with background image",
+          description: "Better Life",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11-projects/";
+            },},{id: "projects-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "The Future",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12-projects/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
