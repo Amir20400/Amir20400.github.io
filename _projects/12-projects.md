@@ -8,7 +8,6 @@ category: work
 related_publications: true
 ---
 
-# Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines programmed to perform tasks typically requiring human cognition, such as learning, reasoning, problem-solving, perception, and language understanding.
 
