@@ -150,6 +150,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10-projects/";
+            },},{id: "projects-healthy-life",
+          title: 'Healthy Life',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11-projects/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
