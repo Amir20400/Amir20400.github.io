@@ -32,3 +32,5 @@ related_publications: true
 - **Stay mentally active:** Learn new skills and engage in hobbies.
 
 Small, consistent changes lead to long-term health benefits.
+
+---
